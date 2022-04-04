@@ -1,0 +1,4 @@
+TestRunnerClass\TestBase.class
+TestRunnerClass\Runner.class
+TestRunnerClass\TestAllureListener.class
+LoginPage\LoginLocators.class
