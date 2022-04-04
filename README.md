@@ -3,6 +3,5 @@ Allure Maven is a plugin to open allure report automatically after run all scena
 
 > command line : mvn clean install allure:serve.
 
-## Link Video
->[AllureReport-testng]()
+
 
